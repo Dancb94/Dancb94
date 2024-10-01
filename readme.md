@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+Hello i'm iggsy 
+
+=======
 # Hello! I'm Eggsy! Full Stack Developer
 
 ## About me
@@ -13,3 +17,4 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Hobbies
 - Dancing: ...
 
+>>>>>>> 216ca4dc7a97782142eb31137d10a6b7c6db2b13
